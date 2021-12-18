@@ -1,0 +1,333 @@
+
+
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bolder;
+  font-family: cursive;
+  letter-spacing: 2px;
+  margin-left: 18px;
+  color: white;
+}
+
+
+.navbar-brand:hover{
+  color: black;
+}
+
+.navbar{
+
+
+
+  padding:5% 10%;
+}
+
+#las:hover{
+
+  color: #2B2B2B;
+}
+
+.la:hover{
+  cursor: pointer;
+}
+
+.nav-link{
+  color: #F9C5D5;
+  font-size: 20px;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+  letter-spacing: 2px;
+  font-weight: bolder;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.list{
+  padding: 10px;
+  padding-bottom:0;
+}
+
+.container-fluid{
+  padding-bottom: 100px;
+}
+.d-flex{
+  margin-right:10px;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.nav-link:hover{
+  color: white;
+}
+
+.navbar-toggler{
+  background-color: grey;
+
+
+}
+
+
+#features{
+  position: relative;
+  z-index: 1;
+  padding: 8% 12%;
+  background-color: white;
+
+
+}
+.navbar-toggler span{
+  display: block;
+  height: 1px;
+  width: 13px;
+  border: 1px solid black;
+  margin: 4px 2px;
+}
+
+.navbar-toggler:hover{
+  background-color: white;
+
+}
+
+.flexing{
+
+
+
+
+  display: flex;
+  align-items: center;
+  padding: 3% 10%;
+
+
+
+
+}
+.flex2{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 300px;
+
+
+
+
+
+
+
+
+}
+
+/* @media screen and (max-width: 991px) {
+
+  .flex2{
+    height: 500px;
+  }
+
+  .titimage{
+
+    transform: none;
+  }
+
+} */
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  font-family: "Montserrat-bold";
+  color: white;
+  padding: 6% 10%;
+}
+
+
+
+
+
+#title{
+  background-color: #ff4c68;
+}
+
+.last{
+  padding: 50px 180px;
+  font-size: 50px;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: bolder;
+  line-height: 1.5;
+  color: white;
+}
+
+.lastbt{
+  margin-right: 20px;
+}
+
+.fas{
+  font-size: 80px;
+  color: #ef8172;
+
+
+
+
+}
+
+.fas:hover{
+  color: #ff4c68;
+  cursor: pointer;
+}
+
+h3{
+  font-family: Montserrat-bold;
+  font-weight: bolder;
+  line-height: 1.5;
+  margin-bottom: 0;
+
+
+}
+
+#footer{
+  text-align: center;
+  padding: 7% 13%;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.paise{
+  background-color: #f0f0f0;
+    font-size: 40px;
+    color: #777777;
+    padding: 20px;
+    margin: 0px;
+
+
+
+}
+
+.la{
+  font-size: 20px;
+  color: #2B2B2B;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.card-body{
+  padding: 0px;
+
+}
+
+.ex{display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  height: 170px;
+
+}
+
+.but{
+  background-color: #f0f0f0;
+  padding: 10px 15px;
+
+}
+
+
+
+
+.card-header{
+  color: #a94442;
+      background-color: #f2dede;
+      border-color: #ebccd1;}
+.cols{
+  color:#8f8f8f;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.titimage{
+  position: absolute;
+
+transform: rotate(25deg);
+
+}
+
+.titt{
+  text-align: center;
+}
+.coled{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0px 20px;
+
+
+
+
+
+
+
+}
+
+
+
+.carousel-item{
+    padding: 8% 15%;
+
+}
+
+.col-lg-6{
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#testimonials{
+
+
+  text-align: center;
+  background-color: #ef8172;
+
+}
+
+h2{
+  font-family: "Montserrat-bold";
+  font-weight: bolder;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 3rem;
+
+
+
+}
+
+.pri{
+  padding: 50px 20px;
+}
+em{
+  color: white;
+  font-weight: bolder;
+}
+
+.timages{
+  width: 12%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #ef8172;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.pimages{
+  width: 15%;
+  margin:30px 20px;
+}
